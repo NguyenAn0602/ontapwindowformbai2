@@ -1,4 +1,3 @@
-# BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên:** Nguyễn Văn An
